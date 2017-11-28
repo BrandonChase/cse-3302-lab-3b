@@ -1,4 +1,3 @@
-
 public class ZipRateTable {
 	public ZipRateTable(int ZipCode, int Rating) {
 		this.ZipCode = ZipCode;
